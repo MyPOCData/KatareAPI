@@ -1,0 +1,100 @@
+{
+    "programType": "TVSHOW",
+    "id": "HOICHOI_TVSHOW_2955",
+    "title": "Thoko Mamla",
+    "cpId": "HOICHOI",
+    "playableId": "HOICHOI_EPISODE_2957",
+    "releaseYear": "2020",
+    "free": false,
+    "credits": [
+        {
+            "characterName": "Parambrata Chattopadhyay",
+            "roleType": "actor",
+            "displayTitle": "Parambrata Chattopadhyay",
+            "images": {
+                "PORTRAIT": "https://image.airtel.tv/parambratachattopadhyay/actor/PORTRAIT/2A9qQos0y7ALw6rLLaI1QBR3uxZ.jpg"
+            },
+            "id": "5d7246eae4b0fa3dedce9520"
+        },
+        {
+            "characterName": "Ankush",
+            "roleType": "actor",
+            "displayTitle": "Ankush",
+            "images": {
+                "PORTRAIT": "https://image.airtel.tv/ankush/actor/PORTRAIT/870aJfYANbAU59MaO7ISE8fn5lf.jpg"
+            },
+            "id": "5ebdf0b6e4b043d561f9190f"
+        },
+        {
+            "characterName": "Anirban Chakrabarti",
+            "roleType": "actor",
+            "displayTitle": "Anirban Chakrabarti",
+            "id": "5b7ade89e4b0856726109ee2"
+        },
+        {
+            "characterName": "Subhankar Chattopadhyay",
+            "roleType": "director",
+            "displayTitle": "Subhankar Chattopadhyay",
+            "id": "5ebdf0b6e4b043d561f91910"
+        }
+    ],
+    "images": {
+        "LANDSCAPE_169_HD": "https://image.airtel.tv/content/HOICHOI/TVSHOW/HOICHOI_TVSHOW_2955/detail-banner.jpg",
+        "PORTRAIT": "https://image.airtel.tv/HOICHOI/HOICHOI_TVSHOW_2955/PORTRAIT/Cj_Hindi_288x384.jpg",
+        "LANDSCAPE_169": "https://image.airtel.tv/HOICHOI/HOICHOI_TVSHOW_2955/LANDSCAPE_169/Cj_Hindi_1280x720.jpg",
+        "FEATURE_BANNER_HD": "https://image.airtel.tv/content/HOICHOI/TVSHOW/HOICHOI_TVSHOW_2955/feature-banner.jpg",
+        "FEATURE_BANNER": "https://image.airtel.tv/content/HOICHOI/TVSHOW/HOICHOI_TVSHOW_2955/AX-featured-banner-960X540.jpg",
+        "PORTRAIT_HD": "https://image.airtel.tv/content/HOICHOI/TVSHOW/HOICHOI_TVSHOW_2955/portrait.jpg",
+        "LANDSCAPE_TILE_169_HD": "https://image.airtel.tv/content/HOICHOI/TVSHOW/HOICHOI_TVSHOW_2955/landscape.jpg"
+    },
+    "genre": "Drama",
+    "genres": [
+        "Drama",
+        "Comedy"
+    ],
+    "hotstar": false,
+    "description": "Two lawyers present a compelling case in a courtroom, representing human beings and the coronavirus. Who will win the legal battle? Watch this series only on hoichoi!",
+    "contentState": "PUBLISH",
+    "seriesTvSeasons": [
+        {
+            "seasonId": "HOICHOI_TVSHOW_2955_SEASON_1",
+            "year": "2020",
+            "name": "SEASON 1",
+            "seasonNumber": 1,
+            "segment": "ATVPLUS",
+            "isDownloadable": true,
+            "firstEpsRef": {
+                "refId": "HOICHOI_EPISODE_2957",
+                "name": "Humans Vs. Corona - Hindi",
+                "duration": 600,
+                "airDate": 1589481000000,
+                "episodeNumber": 1,
+                "description": "Mr. Sen and Mr. Das are locked in an argument in the courtroom, representing humans and coronavirus, respectively. Who will win the right to live?",
+                "images": {
+                    "LANDSCAPE_169": "https://image.airtel.tv/HOICHOI/HOICHOI_EPISODE_2957/LANDSCAPE_169/CJ_1280x720_Hindi_Ep1.jpg",
+                    "PORTRAIT": "https://image.airtel.tv/HOICHOI/HOICHOI_EPISODE_2957/PORTRAIT/CJ_288x384_Hindi_Ep1.jpg"
+                },
+                "segment": "ATVPLUS",
+                "isDownloadable": true
+            },
+            "downloadable": true
+        }
+    ],
+    "refType": "PLAYABLECONTENT",
+    "languages": [
+        "hi"
+    ],
+    "shortUrl": "4NqWjUjA20gRJ8ze",
+    "airDate": 1589481000000,
+    "hd": false,
+    "segment": "ATVPLUS",
+    "xstreamInstallRequire": false,
+    "normalShare": "",
+    "whatsappShare": "",
+    "promoted": 0.0,
+    "status": "Active",
+    "chromecast": true,
+    "downloadable": true,
+    "skpIn": 0,
+    "skpCr": 0
+}
